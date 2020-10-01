@@ -1,0 +1,9 @@
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\obj\Debug\netstandard2.0\AppLibrary.csproj.CoreCompileInputs.cache
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\obj\Debug\netstandard2.0\AppLibrary.AssemblyInfoInputs.cache
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\obj\Debug\netstandard2.0\AppLibrary.AssemblyInfo.cs
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\bin\Debug\netstandard2.0\AppLibrary.deps.json
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\bin\Debug\netstandard2.0\AppLibrary.dll
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\bin\Debug\netstandard2.0\AppLibrary.pdb
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\obj\Debug\netstandard2.0\AppLibrary.dll
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\obj\Debug\netstandard2.0\AppLibrary.pdb
+D:\DEMO PROJECT\MunicipalityTaxes\AppLibrary\obj\Debug\netstandard2.0\AppLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.0\MunicipalityTaxes.csproj.CoreCompileInputs.cache
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.0\MunicipalityTaxes.AssemblyInfoInputs.cache
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.0\MunicipalityTaxes.AssemblyInfo.cs
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.0\MunicipalityTaxes.csprojAssemblyReference.cache

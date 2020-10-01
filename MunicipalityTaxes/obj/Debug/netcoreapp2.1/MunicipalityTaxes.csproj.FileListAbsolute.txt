@@ -1,0 +1,14 @@
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.1\MunicipalityTaxes.csprojAssemblyReference.cache
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.1\MunicipalityTaxes.csproj.CoreCompileInputs.cache
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.1\MunicipalityTaxes.AssemblyInfoInputs.cache
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.1\MunicipalityTaxes.AssemblyInfo.cs
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\bin\Debug\netcoreapp2.1\MunicipalityTaxes.deps.json
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\bin\Debug\netcoreapp2.1\MunicipalityTaxes.runtimeconfig.json
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\bin\Debug\netcoreapp2.1\MunicipalityTaxes.runtimeconfig.dev.json
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\bin\Debug\netcoreapp2.1\MunicipalityTaxes.dll
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\bin\Debug\netcoreapp2.1\MunicipalityTaxes.pdb
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\bin\Debug\netcoreapp2.1\AppLibrary.dll
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\bin\Debug\netcoreapp2.1\AppLibrary.pdb
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.1\MunicipalityTaxes.csproj.CopyComplete
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.1\MunicipalityTaxes.dll
+D:\DEMO PROJECT\MunicipalityTaxes\MunicipalityTaxes\obj\Debug\netcoreapp2.1\MunicipalityTaxes.pdb
